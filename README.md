@@ -1,3 +1,4 @@
+Website :-https://stock-sentiment-analyzergit-7pplflrivk8j3cqndi7yre.streamlit.app/
 # 📈 Real-Time Stock Sentiment Analyzer
 
 A machine learning-based web application that performs **sentiment analysis** on stock market-related news headlines and tweets to determine whether the sentiment is **positive, negative, or neutral**.  
