@@ -32,7 +32,7 @@ stock-sentiment-analyzer/
 ## 🛠 Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/stock-sentiment-analyzer.git
+   git clone https://github.com/KJoshiSaiGovind/stock-sentiment-analyzer.git
    cd stock-sentiment-analyzer
 
 2.Create and activate a virtual environment:
